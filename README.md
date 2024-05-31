@@ -5,7 +5,9 @@ Este proyecto crea una aplicacion web que permite iniciar sesion para entrar a u
 ## Caracteristicas.
 
 -Login de usuarios: Permite a los usuarios iniciar sesion con un correo autentificado.
+
 -Registro de usuarios: Permite a los nuevos usuarios crear una cuenta en la pagina web utilizando sus datos personales
+
 -Interfaz: interfaz accesible y facil de manejar
 
 ## Requisitos 
@@ -16,6 +18,8 @@ Este proyecto crea una aplicacion web que permite iniciar sesion para entrar a u
 -XAMPP: https://www.apachefriends.org/
 
 -Entrar a PHPMyAdmin: http://localhost/phpmyadmin
+
+-Abrir en el navegador: http://localhost/Login-registration-System-PHP-and-MYSQL-master
 
 
 ### Autor 
