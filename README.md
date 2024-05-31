@@ -10,8 +10,11 @@ Este proyecto crea una aplicacion web que permite iniciar sesion para entrar a u
 
 ## Requisitos 
 -Es necesario que descargues el siguiente archivo: https://www.kaggle.com/datasets/elanderos/official-crime-stats-mexico-2015-2023
+
 -**php:**https://www.php.net/ ,->download ->windowsdownload->Threadsafe->zip->descomprimir zip y mover al disco c: agregar al path de las variables del sistema la ubicacion de la carpeta php,->comprobar que se instalo con php -version en CMD
+
 -XAMPP: https://www.apachefriends.org/
+
 -Entrar a PHPMyAdmin: http://localhost/phpmyadmin
 
 
